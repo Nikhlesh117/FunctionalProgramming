@@ -7,8 +7,8 @@
             //VowelAndConsonant.CheckTheCharacter();
             //Swap.SwapingTheNumber();
             //LargestNumber.FindTheLargestNumber();
-            QuotientAndRemonder.FindTheQuotientAndRemonder();
-            //EvenOrOdd.FindEvenOrOdd();
+            //QuotientAndRemonder.FindTheQuotientAndRemonder();
+            EvenOrOdd.FindEvenOrOdd();
 
             //FlipCoin.PercentCoin();
             //LeapYear.Year();
