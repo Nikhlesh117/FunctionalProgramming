@@ -8,9 +8,9 @@
             //Swap.SwapingTheNumber();
             //LargestNumber.FindTheLargestNumber();
             //QuotientAndRemonder.FindTheQuotientAndRemonder();
-            EvenOrOdd.FindEvenOrOdd();
+            //EvenOrOdd.FindEvenOrOdd();
 
-            //FlipCoin.PercentCoin();
+            FlipCoin.PercentCoin();
             //LeapYear.Year();
             //PowerOf2.FindPowerOf2();
             //HarmonicNumber.FindHarmonicNumber();
