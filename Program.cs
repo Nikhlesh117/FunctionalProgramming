@@ -4,8 +4,8 @@
     {
         public static void Main(String[] args)
         {
-            VowelAndConsonant.CheckTheCharacter();
-            //Swap.SwapingTheNumber();
+            //VowelAndConsonant.CheckTheCharacter();
+            Swap.SwapingTheNumber();
             //LargestNumber.FindTheLargestNumber();
             //QuotientAndRemonder.FindTheQuotientAndRemonder();
             //EvenOrOdd.FindEvenOrOdd();
