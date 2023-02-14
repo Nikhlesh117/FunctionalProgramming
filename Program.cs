@@ -5,8 +5,8 @@
         public static void Main(String[] args)
         {
             //VowelAndConsonant.CheckTheCharacter();
-            Swap.SwapingTheNumber();
-            //LargestNumber.FindTheLargestNumber();
+            //Swap.SwapingTheNumber();
+            LargestNumber.FindTheLargestNumber();
             //QuotientAndRemonder.FindTheQuotientAndRemonder();
             //EvenOrOdd.FindEvenOrOdd();
 
