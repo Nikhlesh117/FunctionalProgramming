@@ -11,8 +11,8 @@
             //EvenOrOdd.FindEvenOrOdd();
 
             //FlipCoin.PercentCoin();
-            LeapYear.Year();
-            //PowerOf2.FindPowerOf2();
+            //LeapYear.Year();
+            PowerOf2.FindPowerOf2();
             //HarmonicNumber.FindHarmonicNumber();
             //Factor.FindFactor();
 
